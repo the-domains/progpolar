@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 1
+layout_spectrum: 0.1489362
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27b6533-1e65-4e65-8dbe-2119632684b3.png
 author:
