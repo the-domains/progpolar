@@ -1,7 +1,7 @@
 name: ProgPolar
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27b6533-1e65-4e65-8dbe-2119632684b3.png
-layout_spectrum: 0.36672934726811945
+layout_spectrum: 0.23682
 typography_spectrum: 0.05753217241726816
 author:
   name: ProgPolar
@@ -25,11 +25,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#262626'
+    - '#b5b5b5'
+    - '#dddddf'
+    - '#989898'
+    - '#6a6b6d'
   brandStrength: 0.2881008090917021
   lightness: 0.20527862198650837
   saturation: 0.21436654194258153
