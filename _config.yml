@@ -1,0 +1,14 @@
+layout_spectrum: 0.36672934726811945
+typography_spectrum: 0.05753217241726816
+color:
+  brandStrength: 0.2881008090917021
+  lightness: 0.20527862198650837
+  saturation: 0.21436654194258153
+  rhythmicContrast: 0.885577607434243
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: ProgPolar
