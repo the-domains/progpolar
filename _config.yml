@@ -1,26 +1,21 @@
+color:
+  brandStrength: 0.2881008090917021
+  saturation: 0.2143665419425815
+  brandColors:
+    - '#262626'
+    - '#b5b5b5'
+    - '#dddddf'
+    - '#989898'
+    - '#6a6b6d'
+  lightness: 0.2052786219865084
+  rhythmicContrast: 0.885577607434243
 title: Fuel for your heavy metal fire
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.1489362
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27b6533-1e65-4e65-8dbe-2119632684b3.png
-author:
-  url: www.progpolar.com
-  name: ProgPolar
-  email: progpolar@gmail.com
-name: ProgPolar
-purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb45d162-1532-4074-830b-13d403fefcd5.png
-  type: null
-  appId: null
+  google: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/484cc821-31c1-4972-8b6e-6d4e0ac743a7.svg
 collections:
   - index:
       navigable: true
@@ -33,17 +28,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.2881008090917021
-  saturation: 0.2143665419425815
-  brandColors:
-    - '#262626'
-    - '#b5b5b5'
-    - '#dddddf'
-    - '#989898'
-    - '#6a6b6d'
-  lightness: 0.2052786219865084
-  rhythmicContrast: 0.885577607434243
+cta:
+  domain: null
+  version: null
+  bucket: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27b6533-1e65-4e65-8dbe-2119632684b3.png
+layout_spectrum: 0.1489362
+author:
+  url: www.progpolar.com
+  name: ProgPolar
+  email: progpolar@gmail.com
+purpose: []
+name: ProgPolar
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb45d162-1532-4074-830b-13d403fefcd5.png
+  type: null
+  appId: null
 typography_spectrum: 0.1574468
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/484cc821-31c1-4972-8b6e-6d4e0ac743a7.svg
